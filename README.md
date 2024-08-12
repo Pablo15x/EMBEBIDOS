@@ -4,7 +4,7 @@
 - Pablo Sebastian Andrade Castillo.
 - Asignatura **EMBEBIDOS 1** de semestre 2-2024.
 ## Como clonar un repositorio
-Estos son alginos pasos para clonar un repositorio:
+Estos son algunos pasos para clonar un repositorio:
 1. git clone <URL> : Clona un repositorio de GitHub a tu máquina local.
 2. git status : Verifica el estado de los cambios en tu repositorio local.
 3. git add . : Agrega todos los cambios al staging area.
