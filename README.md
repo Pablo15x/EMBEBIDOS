@@ -8,7 +8,7 @@ Estos son algunos pasos para clonar un repositorio:
 1. git clone <URL> : Clona un repositorio de GitHub a tu máquina local.
 2. git status : Verifica el estado de los cambios en tu repositorio local.
 3. git add . : Agrega todos los cambios al staging area.
-4. git commit -m "mensaje" : Crea un commit con los cambios y un mensaje
+4. git commit -m "Algun mensaje" : Crea un commit con los cambios y un mensaje
 descriptivo. 
 5. git push : Sube los commits al repositorio remoto en GitHub.
 ## ¿Qué es un sistema embebido?
