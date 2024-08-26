@@ -1,9 +1,9 @@
 #define LED 5
 #define POT A1
-#define BT 9600
+#define BR 9600
 
 void setup(){
-  Serial.begin(BT);
+  Serial.begin(BR);
   pinMode(LED, OUTPUT);
   pinMode(POT, INPUT);
 }
