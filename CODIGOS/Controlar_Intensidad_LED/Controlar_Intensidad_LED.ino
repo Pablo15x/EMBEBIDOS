@@ -19,5 +19,5 @@ void loop (){
   Serial.print (p);
   Serial.print ("   ");
   Serial.println(CONV);
-  delay(100);
+  delay(TIME);
 }
